@@ -1,6 +1,3 @@
-# indiCtivE_-uno.4-Live-and-death-geometries-Lo-que-la-sombra-dice
-http://www.indictive-uno.com/#!uno4-1/mbu3f
-
 "Dos algoritmos, unos visual y otro sonoro. Una herramienta que los ejecuta: Pure Data Gem.
 El algoritmo visual resulta de la exploración de las formas geométricas,  las sombras [world_light], es reactivo [fiddle~], estocástico, aleatorio... Es una METAforma, que se transforma e hipnotiza. Un elogio a Euclides y a Bèzier.
 
